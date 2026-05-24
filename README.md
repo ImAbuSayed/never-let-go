@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/never-let-go/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Never Let Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-let-go/) |
+| **Get License** | [Request Licensing for Never Let Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-let-go/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cd380e129aed5a1c24b4f9a51170fb31937c238243dcbce15ccb69a02259fae8` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
