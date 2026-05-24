@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/never-let-go/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Never Let Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-let-go/) |
+| **Get License** | [Secure Licensing Rights for Never Let Go](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/never-let-go/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We got the windows down and the dashboard bright
+> Chasing down the moon on a starry night.. starry night..
+> Every mile we take is a spark we ignite
+> I am never gonna leave your side tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
